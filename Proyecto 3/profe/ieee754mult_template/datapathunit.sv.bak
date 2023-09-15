@@ -16,3 +16,10 @@ module datapathunit (clk, reset, enter, inputdata,
 	// Internal signals and module instantiation for peripherals unit
 	// WRITE HERE YOUR CODE
 endmodule
+
+// *************************** 
+// Testbench for Datapath Unit
+// *************************** 
+module tb_datapathunit ();
+	// WRITE HERE YOUR CODE
+endmodule
