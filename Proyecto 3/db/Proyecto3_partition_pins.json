@@ -64,6 +64,10 @@
 					"strict" : false
 				},
 				{
+					"name" : "seg3[1]",
+					"strict" : false
+				},
+				{
 					"name" : "seg3[2]",
 					"strict" : false
 				},
@@ -100,7 +104,7 @@
 					"strict" : false
 				},
 				{
-					"name" : "seg4[6]",
+					"name" : "seg4[5]",
 					"strict" : false
 				},
 				{
